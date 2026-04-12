@@ -1,0 +1,14 @@
+{
+  "name": "project_manager",
+  "version": "1.0.0",
+  "description": "Learning Backend Developement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Biman Nandi",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.8.2"
+  }
+}
